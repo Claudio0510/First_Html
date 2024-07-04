@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+
+
+    <!--Aqui definimos la cabecera de la pagina web , osea lo que va a decir -->>
+    <head>
+        <title>Claudio Web</title>
+
+    </head>
+
+    <!--Aqui definimos el cuerpo de la pagina web-->>
+    <body>
+
+        El gato duerme en el sofá azul.<br> <!--Donde se pone el br le decimos a la pagina web que ahí debe de haber un salto de línea-->>
+        Los niños juegan fútbol en el parque grande.<br>
+        Ella compró flores para su amiga ayer.<br>
+        La luna brilla en el cielo nocturno.<br>
+        Preparé una deliciosa cena para mis amigos.<br>
+    
+    </body>
+
+
+</html>
